@@ -20,4 +20,8 @@ npm start
 ##### Flutter project
 configure flutter sdk according to [Flutter Documentation](https://flutter.dev/docs/get-started/install)
 
+##### MVC Project
+Open in [Visual Studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16) or IDE of choice
+Start Debug or compile and deploy release
+
 [Launch from debug](https://flutter.dev/docs/get-started/test-drive)
