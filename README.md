@@ -19,6 +19,7 @@ npm start
 
 ##### Flutter project
 configure flutter sdk according to [Flutter Documentation](https://flutter.dev/docs/get-started/install)
+
 [Launch from debug](https://flutter.dev/docs/get-started/test-drive)
 
 ##### MVC Project
