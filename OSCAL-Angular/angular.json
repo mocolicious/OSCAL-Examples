@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "OSCAL-Angular"
+  "defaultProject": "OSCAL-Angular",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
