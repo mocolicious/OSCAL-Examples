@@ -27,7 +27,7 @@
     "@ngrx/store-devtools": "^12.3.0",
     "rxjs": "~7.2.0",
     "tslib": "^2.0.0",
-    "uswds": "^2.8.0",
+    "uswds": "^2.12.0",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
